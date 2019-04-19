@@ -1,0 +1,82 @@
+#title{
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+    font-size: 50px;
+    margin: 40px auto;
+    padding: 20px;
+}
+
+td{
+    border: 2px solid black;
+    margin: 0px auto;
+    padding: 60px;
+    height: 40px
+    
+}
+
+.tOne{
+   border-right: 0;
+   border-left-color: white;
+   border-top-color: white;
+    
+}
+.tTwo{
+    border-right: 0;
+    border-top-color: white;
+    
+}
+
+.tThree{
+  border-top-color: white;
+    border-right-color: white;
+}
+
+.tFour{
+   border-right: 0;
+   border-top:0;
+   border-left-color: white;        
+    
+}
+.tFive{
+   
+     border-right: 0;
+     border-top:0;
+}
+
+.tSix{
+     border-top:0;
+     border-right-color: white;
+}
+
+
+.tSeven{
+     border-right: 0; 
+     border-top:0;
+     border-left-color: white;
+     border-bottom-color: white;
+}
+.tEight{
+     border-right: 0;
+     border-top:0;
+     border-bottom-color: white;
+}
+
+.tNine{
+     border-top:0;
+     border-right-color: white;
+     border-bottom-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
